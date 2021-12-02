@@ -1,17 +1,17 @@
-# Desenvolvimento de blog pessoal
+# Blog pessoal ✍🏻🖥️
 
-API com Json-Server consumida em um feed de mensagens, desenvolvido em Angular. Projeto desenvolvido em *bootcamp* da Capgemini, sob orientação do especialista [Wheslley Rimar Bezerra](https://br.linkedin.com/in/wheslleyrimar).   
+- Site de __blog pessoal__ 
+- __API JSON__ com feed de mensagens
+- Desenvolvido em __Angular CLI__ 
 
-Durante o desenvolvimento deste projeto foram evoluídos os conhecimentos em consumo de API's e desenvolvimento web com Angular.
-   
-&nbsp;
+## :hammer::wrench::hammer: Ferramentas utlizadas :hammer::wrench::hammer:
 
->Projeto concluído em 10/2021.
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-
-**API | JSON Server | Angular**
-
----
+#### :purple_circle: Concluído em 15/10/2021
 
 
 
